@@ -1,4 +1,4 @@
-A simple module for managing certain string secrets, API keys, and passwords.
+A class for managing certain string secrets, API keys, and passwords.
 
 Current version 0.0.1
 
